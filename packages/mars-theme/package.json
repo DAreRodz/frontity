@@ -23,6 +23,9 @@
     "@frontity/components": "^1.1.15",
     "@frontity/html2react": "^1.1.15",
     "frontity": "^1.4.3",
-    "react-spinners": "^0.5.4"
+    "lodash-es": "^4.17.15",
+    "react-spinners": "^0.5.4",
+    "react-spring": "^8.0.27",
+    "react-use-gesture": "^7.0.4"
   }
 }
